@@ -10,3 +10,5 @@ ghcr.io/moontechlab/lunatv:latest
 whyour/qinglong:debian
 #60sAPI
 vikiboss/60s:latest
+#Bilibili同步
+qq1582185982/bili-sync:latest
