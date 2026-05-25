@@ -12,3 +12,5 @@ whyour/qinglong:debian
 vikiboss/60s:latest
 #Bilibili同步
 qq1582185982/bili-sync:latest
+#种子
+linuxserver/jackett:latest
