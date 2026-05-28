@@ -14,3 +14,7 @@ vikiboss/60s:latest
 qq1582185982/bili-sync:latest
 #种子
 linuxserver/jackett:latest
+#Jre8
+eclipse-temurin:8-jre-alpine
+# JRE21
+eclipse-temurin:21-jre-alpine
