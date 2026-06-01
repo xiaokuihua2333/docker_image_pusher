@@ -19,5 +19,7 @@ eclipse-temurin:8-jre-alpine
 # JRE21
 eclipse-temurin:21-jre-alpine
 #minecraft
-itzg/minecraft-server:latest
-itzg/minecraft-server:2026.1.2
+#itzg/minecraft-server:latest
+#itzg/minecraft-server:2026.1.2
+#个人记账应用
+mayswind/ezbookkeeping
