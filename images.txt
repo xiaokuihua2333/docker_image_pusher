@@ -27,3 +27,5 @@ mayswind/ezbookkeeping
 jokobsk/netalertx
 #全球电台
 superneed/global-radio
+#mysql
+mysql:8.0.41
