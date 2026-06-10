@@ -29,3 +29,5 @@ jokobsk/netalertx
 superneed/global-radio
 #mysql
 mysql:8.0.41
+#CoCo Downloader
+markcxx/coco-downloader
