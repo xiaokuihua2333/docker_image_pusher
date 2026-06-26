@@ -14,10 +14,12 @@ vikiboss/60s:latest
 qq1582185982/bili-sync
 #种子
 linuxserver/jackett
-#Jre8
+# JRE8
 eclipse-temurin:8-jre-alpine
 # JRE21
 eclipse-temurin:21-jre-alpine
+# JRE25
+eclipse-temurin:25.0.3_9-jre-alpine
 #minecraft
 #itzg/minecraft-server
 #itzg/minecraft-server:2026.1.2
